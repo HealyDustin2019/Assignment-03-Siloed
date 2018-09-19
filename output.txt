@@ -1,0 +1,60 @@
+"C:\Program Files\Java\jdk1.8.0_111\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.2\lib\idea_rt.jar=51301:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.2\bin" -Dfile.encoding=UTF-8 -classpath "C:\Program Files\Java\jdk1.8.0_111\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\deploy.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\cldrdata.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\dnsns.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\jaccess.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\jfxrt.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\localedata.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\nashorn.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\sunec.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\sunmscapi.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\sunpkcs11.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\zipfs.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\javaws.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\jfxswt.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\management-agent.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\plugin.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\rt.jar;C:\Users\Dustin\IdeaProjects\Siloed\out\production\Siloed" Siloed
+Enter number of towers available.
+12
+Enter population affected.
+37640
+Enter the number of days water supply needs to last.
+28
+Enter usual water usage per person in gallons.
+65
+Enter tower height 1
+72
+Enter tower diameter 1
+22
+Enter tower height 2
+19
+Enter tower diameter 2
+18
+Enter tower height 3
+50
+Enter tower diameter 3
+13
+Enter tower height 4
+67
+Enter tower diameter 4
+16
+Enter tower height 5
+16
+Enter tower diameter 5
+14
+Enter tower height 6
+53
+Enter tower diameter 6
+23
+Enter tower height 7
+69
+Enter tower diameter 7
+22
+Enter tower height 8
+30
+Enter tower diameter 8
+22
+Enter tower height 9
+52
+Enter tower diameter 9
+23
+Enter tower height 10
+40
+Enter tower diameter 10
+16
+Enter tower height 11
+31
+Enter tower diameter 11
+18
+Enter tower height 12
+75
+Enter tower diameter 12
+23
+Each person can only use ~7.81 gallons of water a day for it to last 28 days.
+Cut usage by ~57.19 gallons per person.
+Process finished with exit code 0
