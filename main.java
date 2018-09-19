@@ -24,7 +24,7 @@ public class Siloed {
         double waterPerPerson = totalVolume/pop;
         double waterForTime = waterPerPerson/days;
         System.out.printf("Each person can only use ~%.2f",(waterForTime * 264.172));
-        System.out.print(" gallons of water a day for it to last "+ days+ " days.\n");
+        System.out.print(" gallons of water a day for it to last "+days+" days.\n");
         //264.172 represents conversion factor between cubic meters & gallons
         System.out.printf("Cut usage by ~%.2f",(usage-(waterForTime * 264.172)));
         System.out.print(" gallons per person.");
