@@ -1,4 +1,4 @@
-"C:\Program Files\Java\jdk1.8.0_111\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.2\lib\idea_rt.jar=51301:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.2\bin" -Dfile.encoding=UTF-8 -classpath "C:\Program Files\Java\jdk1.8.0_111\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\deploy.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\cldrdata.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\dnsns.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\jaccess.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\jfxrt.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\localedata.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\nashorn.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\sunec.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\sunmscapi.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\sunpkcs11.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\zipfs.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\javaws.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\jfxswt.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\management-agent.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\plugin.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\rt.jar;C:\Users\Dustin\IdeaProjects\Siloed\out\production\Siloed" Siloed
+"C:\Program Files\Java\jdk1.8.0_111\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.2\lib\idea_rt.jar=54037:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.2\bin" -Dfile.encoding=UTF-8 -classpath "C:\Program Files\Java\jdk1.8.0_111\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\deploy.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\cldrdata.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\dnsns.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\jaccess.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\jfxrt.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\localedata.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\nashorn.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\sunec.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\sunmscapi.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\sunpkcs11.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\zipfs.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\javaws.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\jfxswt.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\management-agent.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\plugin.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\rt.jar;C:\Users\Dustin\IdeaProjects\Siloed\out\production\Siloed" Siloed
 Enter number of towers available.
 12
 Enter population affected.
@@ -7,54 +7,54 @@ Enter the number of days water supply needs to last.
 28
 Enter usual water usage per person in gallons.
 65
-Enter tower height 1
+Enter tower height 1 (in meters).
 72
-Enter tower diameter 1
+Enter tower diameter 1 (in meters).
 22
-Enter tower height 2
+Enter tower height 2 (in meters).
 19
-Enter tower diameter 2
+Enter tower diameter 2 (in meters).
 18
-Enter tower height 3
+Enter tower height 3 (in meters).
 50
-Enter tower diameter 3
+Enter tower diameter 3 (in meters).
 13
-Enter tower height 4
+Enter tower height 4 (in meters).
 67
-Enter tower diameter 4
+Enter tower diameter 4 (in meters).
 16
-Enter tower height 5
+Enter tower height 5 (in meters).
 16
-Enter tower diameter 5
+Enter tower diameter 5 (in meters).
 14
-Enter tower height 6
+Enter tower height 6 (in meters).
 53
-Enter tower diameter 6
+Enter tower diameter 6 (in meters).
 23
-Enter tower height 7
+Enter tower height 7 (in meters).
 69
-Enter tower diameter 7
+Enter tower diameter 7 (in meters).
 22
-Enter tower height 8
+Enter tower height 8 (in meters).
 30
-Enter tower diameter 8
+Enter tower diameter 8 (in meters).
 22
-Enter tower height 9
+Enter tower height 9 (in meters).
 52
-Enter tower diameter 9
+Enter tower diameter 9 (in meters).
 23
-Enter tower height 10
+Enter tower height 10 (in meters).
 40
-Enter tower diameter 10
+Enter tower diameter 10 (in meters).
 16
-Enter tower height 11
+Enter tower height 11 (in meters).
 31
-Enter tower diameter 11
+Enter tower diameter 11 (in meters).
 18
-Enter tower height 12
+Enter tower height 12 (in meters).
 75
-Enter tower diameter 12
+Enter tower diameter 12 (in meters).
 23
-Each person can only use ~7.81 gallons of water a day for it to last 28 days.
-Cut usage by ~57.19 gallons per person.
+Each person can only use ~45.90 gallons of water a day for it to last 28 days.
+Cut usage by ~19.10 gallons per person.
 Process finished with exit code 0
