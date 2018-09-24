@@ -15,7 +15,7 @@ public class Siloed {
         int pop = scan.nextInt();
         System.out.println("Enter the number of days water supply needs to last.");
         int days = scan.nextInt();
-        System.out.println("Enter usual water usage per person in gallons.");
+        System.out.println("Enter usual water usage per person in cubic meters.");
         double usage = scan.nextDouble();
         //Initializing variables meant to be used in calculations in for loop
         double towerRadiusSquared = 0;
@@ -35,10 +35,10 @@ public class Siloed {
         double waterPerPerson = totalVolume/pop;
         //waterForTime distributes an equal amount of water for each day over the period given
         double waterForTime = waterPerPerson/days;
-        //printf used to round double value to two decimals & 264.172 converts between cubic meters & gallons
-        System.out.printf("Each person can only use ~%.2f",(waterForTime * 264.172));
-        System.out.print(" gallons of water a day for it to last "+days+" days.\n");
-        System.out.printf("Cut usage by ~%.2f",(usage-(waterForTime * 264.172)));
-        System.out.print(" gallons per person.");
+        //printf used to round double value to two decimals
+        System.out.printf("Each person can only use ~%.2f",(waterForTime));
+        System.out.print(" cubic meters of water a day for it to last "+days+" days.\n");
+        System.out.printf("Cut usage by ~%.2f",(usage-(waterForTime)));
+        System.out.print(" cubic meters per person.");
     }
 }
